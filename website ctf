@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Chào mừng đến với Cuộc thi CTF HTML</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            text-align: center;
+            background-color: #f0f0f0;
+        }
+        .container {
+            margin-top: 100px;
+        }
+        h1 {
+            color: #333;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>Chào mừng đến với Cuộc thi CTF HTML!</h1>
+        <p>Đây là một cơ hội tuyệt vời để thể hiện kỹ năng của bạn trong lập trình và bảo mật web.</p>
+        <p>Nếu bạn cần bất kỳ sự trợ giúp nào, đừng ngần ngại hỏi!</p>
+    </div>
+</body>
+</html>
